@@ -1,0 +1,1 @@
+This is the foundation odin project. https://www.theodinproject.com/paths/foundations/courses/foundations
